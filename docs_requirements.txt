@@ -12,5 +12,5 @@ sentencepiece
 torchtext
 tensorboard
 torch
-transformers==3.4.0
+transformers==4.30.0
 pandas
